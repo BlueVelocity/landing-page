@@ -1,0 +1,28 @@
+html,
+body,
+.whole-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+}
+
+.whole-page {
+    width: 80vw;
+    background-color: red;
+}
+
+img {
+    width: 100px;
+    height: 100px
+}
+
+ul {
+    list-style: none;
+    display: flex
+}
+
+.menu-bar-container {
+    
+}
